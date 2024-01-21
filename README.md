@@ -9,7 +9,7 @@ de l inserrer dans l imprimante et de l allumer.
 pour les vcartes meres 1.1.x , il faut le faire a partir de VS code, c est plus contraignant, sachant que toutes n'ont pas un boolader, et donc qu il faut d abord en flasher un... 
 
 ----
-
+attention : les fichiers suivants sont pour la carte mere d origine de la CR10v2 ( carre mere 2.x.x, et pas pour oes 4.2.x)
 Deux fichiers sont dispo pour une CR10v2, avec et sans BLTouch en Français
 le programme xcode qui semble etre utile ( j'ai une Ender 5, et le process est différent)
 j ai trouvé un tuto : https://docs.google.com/document/d/1cuYWpDw8aPuLEXus3uNsgDIEAKEze3Z9-hIDMWcqMK8/edit
