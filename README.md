@@ -1,5 +1,7 @@
 # ZAG
 
+# Ender 5 Marlin firmware cook.pdf
+
 Ajout d un tuto pour faire du pas à pas dans la création d un firmware personnalisé en fonction de la carte mere.
 pour les cartes mere 4.2.x, il suffit de mettre le fichier .bin généré (et juste lui) dans la racine de la carte micro sd (sans le renommer), 
 de l inserrer dans l imprimante et de l allumer.
